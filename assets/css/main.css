@@ -1,3 +1,4 @@
+
 /* Fonts */
 :root {
   --default-font: "Montserrat", sans-serif;
@@ -849,6 +850,7 @@ section,
 }
 
 .hero .hero-bg img {
+
   margin-top: 100px;
   position: absolute;
   inset: 0;
@@ -861,6 +863,7 @@ section,
 
 .hero .hero-bg::before {
   content: "";
+
   background: color-mix(in srgb, var(--background-color));
   position: absolute;
   inset: 0;
